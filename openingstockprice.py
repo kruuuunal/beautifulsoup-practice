@@ -21,6 +21,3 @@ tag3 = tag2.findAll('td')
 tag4 = tag3[1]
 
 print (tag4.text)
-       
-       
-       #.span['class'])
